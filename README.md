@@ -2,7 +2,7 @@
 
 A lightweight, feature-rich blog application built with Django. Includes tagging, comments, search functionality, RSS feeds, and sitemaps.
 
-## ✨ Features
+## Features
 
 - **Blog Post Management**: Create, edit, and publish posts with SEO-friendly slugs
 - **Tagging System**: Categorize posts with tags for better organization
@@ -14,7 +14,7 @@ A lightweight, feature-rich blog application built with Django. Includes tagging
 - **Ready-to-Use Templates**: Responsive templates with static assets
 - **Comprehensive Testing**: Test coverage for core functionality
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
